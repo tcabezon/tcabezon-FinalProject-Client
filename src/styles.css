@@ -1,0 +1,18 @@
+.meme-image {
+    max-width: 600px;
+}
+
+.image-grid{
+    max-width: 600px;
+    margin-top: 25px;
+}
+
+.view-container {
+    max-width: 600px;
+}
+
+.grid-image {
+    max-width: 200px;
+    height: 200px;
+    margin: 5px;
+}
